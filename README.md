@@ -6,7 +6,7 @@
 <a href='https://www.facebook.com/joseph.ugalde/' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=4267B2&labelColor=FFFFFF&color=4267B2'/></a>
 <a href='https://www.linkedin.com/in/jtugalde/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=0077b5&labelColor=FFFFFF&color=0077b5'/></a>
 
-Building Neher Data Systems LLC
+Help to build Neher Data Systems LLC
 
 ## I'm an Coder, Activist, and Teacher
 
@@ -14,7 +14,6 @@ Building Neher Data Systems LLC
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
