@@ -1,15 +1,12 @@
 # Hi there, I'm Joe - aka [thinkula][youtube] 👋 
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCORIzBAkdBY1lgaZvKBPmrQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=joeugalde.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joeugalde.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/joeyugs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=joeyugs)
-[![Instagram Follow](https://img.shields.io/instagram/follow/joeyugs?color=1DA1F2&logo=instragram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthinkula&screen_name=joeyugs)
+<a href='https://www.youtube.com/joeugalde' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FF0000&labelColor=FFFFFF&color=FF0000'/></a>
+<a href='https://twitter.com/JoeyUgs' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&labelColor=FFFFFF&color=1DA1F2'/></a>
+<a href='https://www.instagram.com/joeyugs/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=C13584&labelColor=FFFFFF&color=C13584'/></a>
+<a href='https://www.facebook.com/joseph.ugalde/' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=4267B2&labelColor=FFFFFF&color=4267B2'/></a>
+<a href='https://www.linkedin.com/in/jtugalde/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=0077b5&labelColor=FFFFFF&color=0077b5'/></a>
 
-
-<a href='https://www.instagram.com/joeyugs/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FF0001&labelColor=FFFFFF&color=FFE101'/></a>
-
-Working for 
-
+Building Neher Data Systems LLC
 
 ## I'm an Coder, Activist, and Teacher!!
 
@@ -22,8 +19,8 @@ Working for
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://joeugalde.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://joeugalde.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
@@ -110,12 +107,11 @@ Working for
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://joeugalde.com
+[twitter]: https://twitter.com/joeyugs
+[youtube]: https://youtube.com/joeugalde
+[instagram]: https://instagram.com/joeyugs
+[linkedin]: https://linkedin.com/in/jtugalde
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
