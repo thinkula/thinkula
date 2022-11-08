@@ -6,14 +6,11 @@
 <a href='https://www.facebook.com/joseph.ugalde/' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=4267B2&labelColor=FFFFFF&color=4267B2'/></a>
 <a href='https://www.linkedin.com/in/jtugalde/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=0077b5&labelColor=FFFFFF&color=0077b5'/></a>
 
-Help to build Neher Data Systems LLC
-
-## I'm an Coder, Activist, and Teacher
+## I'm a Coder, Activist, and Entrepreneur
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: defend the truth
 
 ### Connect with me:
 
