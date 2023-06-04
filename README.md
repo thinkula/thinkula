@@ -8,17 +8,11 @@
 
 ## I'm a Coder & Activist with interests including:
 Scripting integrations
-
 Multi-cloud 
-
 AWS proof of concept funded project
-
   Ghost hunters app
-
 Workflows, pineplines, integrations, interoperability, computer vision
-
 Natural language processing and language isolates
-
 Tree-climbin genealogist
 
 - 👯 I’m looking to collaborate with other content creators
